@@ -14,3 +14,4 @@ packages:
 - datetime
 - seaborn
 - matplotlib
+- statsmodel
